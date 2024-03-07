@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Bed",
+    "image": "https://drive.google.com/uc?export=view&id=1kQjFwOBOGYFB-3SheJxQihtv3An1dWKZ",
+    "color": "#000000",
+    "data": "Data",
+    "id": 1
+  },
+  {
+    "name": "Lamp",
+    "image": "https://drive.google.com/uc?export=view&id=1VncfxH5yUGlJkppLo0WwaGzuXc7fq2QY",
+    "color": "#A76434",
+    "data": "Data",
+    "id": 2
+  },
+  {
+    "name": "Table",
+    "image": "https://drive.google.com/uc?export=view&id=1Pz67HS7007-kpQ_sBHEX3oYX2jIFhaa6",
+    "color": "#93877D",
+    "data": "Data",
+    "id": 3
+  },
+  {
+    "name": "Sofa",
+    "image": "https://drive.google.com/uc?export=view&id=106O55ffmDmx2ys6HKl6OrtIit9tLK-5L",
+    "color": "#6B666A",
+    "data": "Data",
+    "id": 4
+  }
+]
