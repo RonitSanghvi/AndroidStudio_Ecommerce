@@ -1,42 +1,32 @@
-# Final_Project
-Ecommerce Application Tutorial (Source) - Mian Speaks
+<h1 align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"/>
+  Ecommerce Android Studio App 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"/>
+</h1>
 
-# How to setup Admin Panel
+###
 
-###### Step 1: Download Source Code
-https://github.com/mianasadali1/Final_Project/blob/master/Web%20Source%20Code/SourceCode.zip
+<p align="left">I created this Ecommerce Furniture Application with Android Studio Java.</p>
 
-###### Step 2: Upload Code & Database
+###
 
-###### Step 3: Change database credientals in services/conf.php file
+<h2>🌟Features of the Application🌟</h2>
 
-###### All Done.
+###
 
-# How to connect your panel with app
+<p align="left">🛒 Add to Cart <br/>✨ Slideshow of Latest Offers <br/>🔍 Search Bar  <br/>💳 Stripe Payment Gateway <br/>🎯 Category Based Selection</p>
 
-###### Step 1: In your android studio open Constants.java
+###
 
-###### Step 2: Change BASE_URL with your URL
+<br/><h2>📱Screenshot of the App📱</h2>
 
-# Used Libraries
+###
 
-Material Search Bar:
-https://github.com/mancj/MaterialSearchBar
+<div>
+    <img width=300 src='https://github.com/RonitSanghvi/AndroidStudio_Ecommerce/blob/main/App%20Screenshot/HomePage.png'/><img width=30/>
+    <img width=300 src='https://github.com/RonitSanghvi/AndroidStudio_Ecommerce/blob/main/App%20Screenshot/DetailsPage.png'/>
+    <p></p>
+    <img width=300 src='https://github.com/RonitSanghvi/AndroidStudio_Ecommerce/blob/main/App%20Screenshot/PaymentGateway.png'/><img width=30/>
+    <img width=300 src='https://github.com/RonitSanghvi/AndroidStudio_Ecommerce/blob/main/App%20Screenshot/Cart.png'/>
 
-Rounded Image View:
-https://github.com/vinc3m1/RoundedImageView
-
-Carousel:
-https://github.com/ImaginativeShohag/Why-Not-Image-Carousel
-
-Android Volley:
-https://google.github.io/volley
-
-Tiny Cart:
-https://github.com/hishd/TinyCart
-
-Advanced Webview:
-https://github.com/delight-im/Android-AdvancedWebView
-
-# Free SVG Icons
-https://www.svgrepo.com
+</div>
