@@ -30,3 +30,16 @@
     <img width=300 src='https://github.com/RonitSanghvi/AndroidStudio_Ecommerce/blob/main/App%20Screenshot/Cart.png'/>
 
 </div>
+
+###
+
+<div>
+  <h2>We welcome contributions to this project! Here's how to fork the repository</h2>
+  <ul>
+    <li>Click the 'Fork' button in the top right corner of this repository.</li>
+    <li>This will create a copy of the repository in your account.</li>
+    <li>Make changes to your forked copy (create a new branch for your changes).</li>
+    <li>Push your changes to your forked repository.</li>
+    <li>Create a pull request to submit your changes for review.</li>
+  </ul>
+</div>
